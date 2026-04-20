@@ -1,0 +1,9 @@
+﻿  Person.cpp
+  ex8.cpp
+C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\ex8\ex8.cpp(16,25): warning C4244: 'argument': conversion from 'double' to 'const T', possible loss of data
+C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\ex8\ex8.cpp(16,25): warning C4244:         with
+C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\ex8\ex8.cpp(16,25): warning C4244:         [
+C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\ex8\ex8.cpp(16,25): warning C4244:             T=float
+C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\ex8\ex8.cpp(16,25): warning C4244:         ]
+  Generating Code...
+  ex8.vcxproj -> C:\Users\USER\Desktop\טובי\תכנות\יד\C++\GithubProject\ex8\x64\Debug\ex8.exe
